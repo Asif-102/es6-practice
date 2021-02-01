@@ -10,9 +10,9 @@ console.log(gfName, phone);
 console.log(gfName, phone);
 
 const complexObject = {
-    name  : 'abc',             // <== nested object
+    name  : 'abc',             
     info :{
-        address: 'kola bagan',
+        address: 'kola bagan',    // <== nested object
         leader : 'Tiger Leader'
     }
 }
